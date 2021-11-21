@@ -1,0 +1,133 @@
+                                                           First Year PPS Practical Questions
+                                   -----------------------------------------------------------------------------------------
+
+
+Prog 1. Write a program to print “Hello World” in C .
+
+Prog 2. Write a program to add two integers.
+
+Prog 3.Write a program to calculate the area of triangle using formula at=√s(sa)(s-b)(s-c)
+
+Prog 4.Basic salary of an employee is input through the keyboard. The DA is 25% of the basic salary while the HRA is 15% of the basic salary.
+Provident Fund is deducted at the rate of 10% of the gross salary (BS+DA+HRA).
+Program to calculate the Net Salary.
+
+Prog 5. Write a program to determine the roots of quadratic equation.
+
+Prog 6. Write a program to check provided number is negative, positive or zero.
+
+Prog 7. Write a program to check provided character is a vowel or constant.
+
+Prog 8. Write a program to check a triangle is isosceles ,scalene or equilateral.
+
+Prog 9. Write a program to find the largest of three numbers using nested if else.
+
+Prog 10. Write a program to receive marks of physics, chemistry & maths from user & check its eligibility for course if
+a)Marks of physics > 40
+b)Marks of chemistry > 50
+c)Marks of math’s > 60
+d)Total of physics & math’s marks > 150
+or
+e)Total of three subjects marks > 200
+
+Prog 11. Write a program to find the value of y for a particular value of n. The a,x, b, n is input by user
+if n=1 y=ax%b if n=2 y=ax2+b2 if n=3 y=a-bx if n=4 y=a+x/b 
+
+Prog 12. Write a Menu driven program for simple calculator using switch.
+
+Prog 13. Write a Menu driven program to convert temperature from Celsius to Fahrenheit and viceversa. 
+
+Prog 14.Write a program to check provided character is vowel or constant using switch case.
+
+Prog 15. a program to construct a Fibonacci series upto n terms.
+
+Prog 16.Write a program to find whether the number is Armstrong number.
+
+Prog 17. Write a program to generate sum of series 1!+2!+3!+--------------n!
+
+Prog 18.Write a program to find the sum of following series 1-X1/1!+X2/2!-
+…………Xn/n!.
+
+Prog 19.Write a program to print the entire prime no between 1 and 300.
+
+Prog 20.Write a program to print out all the Armstrong number between 100 and 500.
+
+Prog 21.Write a program to draw the following figure:
+3 2 1
+2 1
+1 
+
+Prog 22.Write a program to draw the following figure:* ** *** Prog 23.Write a program to receive a five-digit no and display as like 24689:
+2
+4
+6
+8
+9 
+
+Prog 24. Write a function that return sum of all the odd digits of a given positive noentered through keyboard. 
+
+Prog 25.Write a program to print area of rectangle using function & return its valueto main function.
+
+Prog 26.Write a program to calculate the factorial for given number using function.
+
+Prog 27.Write a program to find sum of Fibonacci series using function.
+
+Prog 28.Write factorial function & use the function to find the sum of seriesS=1!+2!+-----n!. 
+
+Prog 29. Write a program to find the factorial of given number using recursion.
+
+Prog 30. Write a program to find the sum of digits of a 5 digit number usingrecursion.
+
+Prog 31. Write a program to calculate the GCD of given numbers using recursion.
+
+Prog 32.Write a program to convert decimal number in to binary number.
+
+Prog 33.Write a program to convert binary number in to decimal number.
+
+Prog 34. Write a program to delete duplicate element in a list of 10 elements &display it on screen.
+
+Prog 35. Write a program to merge two sorted array & no element is repeatedduring merging. 
+
+Prog 36.Write a program to evaluate the addition of diagonal elements of twosquare matrixes.
+
+Prog 37. Write a program to find the transpose of a given matrix & check whether itis symmetric or not.
+
+Prog 38.Write a program to print the multiplication of two N*N (Square) matrix.
+
+Prog 39. Write a program in C to check whether the given string is a palindrome or not.
+
+Prog 40. Write program to sort the array of character (String) in alphabetical orderlike STRING in GINRST.
+
+Prog 41. Write a program to remove all the blank space from the string & print it,also count the no of characters.
+
+Prog 42.Write a program to store the following string “zero”, “one” -------“five”.Print the no in words, given in figure as 3205.
+
+Prog 43. Write a program to compare two given dates. To store a date uses astructure that contains three members namely day, month and year. 
+If the dates are equal then display message equal otherwise unequal. 
+
+Prog 44.Define a structure that can describe a hotel. It should have the member thatincludes the name, address, grade, room charge and number of rooms. 
+Write a function to print out hotel of given grade in order of room charges. 
+
+Prog 45. Define a structure called cricket with player name, team name, battingaverage, for 50 players & 5 teams. 
+Print team wise list contains names of player with their batting average. 
+
+Prog 46. Write a c program to copy & count the character content of one file says
+a.txt to another file b.txt.
+
+Prog 47.Write a program to take 10 integers from file and write square of theseinteger in other file.
+
+Prog 48.Write a program to read number from file and then write all ‘odd’number to file ODD.txt & all even to file EVEN.txt. 
+
+Prog 49.Write a program to print all the prime number, between 1 to 100 in fileprime.txt.
+
+Prog 50.Write the following C program using pointer:
+a)To sort the list of numbers through pointer
+b)To reverse the string through pointer.
+
+Prog 51. Write a program to find the largest no among 20 integers array using dynamic memory allocation. 
+
+Prog 52.Using Dynamic Memory Allocation, Write a program to find the transposeof given matrix. 
+
+Prog 53.Write a program to find the factorial of given number using command lineargument.
+
+Prog 54. Write a program to find the sum of digits of a 5 digit number usingcommand line argument.
